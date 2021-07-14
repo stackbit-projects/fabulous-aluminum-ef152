@@ -23,7 +23,7 @@ sections:
   - type: features_section
     subtitle: >-
       At Ease is a web-based and mobile app that supports survivors and victims
-      of domestic violence , connecting them to the neea
+      of domestic violence , connecting them to the n
     features:
       - title: Educate Yourself !
         subtitle: >-
