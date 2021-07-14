@@ -7,7 +7,7 @@ sections:
     actions:
       - label: Need Help URGENTLY !
         url: /contact
-        style: secondary
+        style: primary
     image: /images/Adalee Naturals.png
     image_alt: A smiling woman
     media_position: right
