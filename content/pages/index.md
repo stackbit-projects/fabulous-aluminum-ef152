@@ -56,7 +56,6 @@ sections:
         media_position: right
         media_width: sixty
       - title: Therapy Sessions
-        subtitle: 'Your products and services, at scale.'
         content: >
           > ***Tough times never last, only tough people do - Dr Robert
           Schuller***
