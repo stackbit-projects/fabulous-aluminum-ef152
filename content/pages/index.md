@@ -9,7 +9,7 @@ sections:
     actions:
       - label: Find help URGENTLY
         url: /contact
-        style: primary
+        style: secondary
     image: /images/Adalee Naturals.png
     image_alt: A smiling woman
     media_position: right
