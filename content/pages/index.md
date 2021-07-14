@@ -73,7 +73,7 @@ sections:
         image: /images/section 3.jpg
         image_alt: Feature 3 illustration
         media_position: right
-        media_width: sixty
+        media_width: fourty
     feature_padding_vert: large
     align: center
     background_color: none
