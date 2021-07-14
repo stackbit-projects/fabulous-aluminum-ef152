@@ -30,7 +30,7 @@ sections:
           > ***Education is the most powerful weapon you can use to change the
           world - Nelson Mandela***
         actions:
-          - label: E
+          - label: Explore Courses
             url: /faq
             style: primary
             has_icon: true
