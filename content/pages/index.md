@@ -64,7 +64,7 @@ sections:
         actions:
           - label: Book Free Sessions
             url: /faq
-            style: primary
+            style: secondary
             has_icon: true
             icon: arrow-right
             icon_position: right
