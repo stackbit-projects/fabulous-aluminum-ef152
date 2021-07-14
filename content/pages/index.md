@@ -21,7 +21,9 @@ sections:
     background_image_size: contain
     background_image_opacity: 8
   - type: features_section
-    subtitle: 'At Ease is a web-based and mobile app that supports survivors '
+    subtitle: >-
+      At Ease is a web-based and mobile app that supports survivors and victims
+      of domestic violence 
     features:
       - title: Educate Yourself !
         subtitle: >-
