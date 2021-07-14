@@ -72,7 +72,7 @@ sections:
         image_alt: Feature 3 illustration
         media_position: right
         media_width: fifty
-        subtitle: Ther
+        subtitle: Therap
     feature_padding_vert: large
     align: center
     background_color: none
