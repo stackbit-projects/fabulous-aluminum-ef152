@@ -57,10 +57,9 @@ sections:
         media_width: sixty
       - title: Therapy Sessions
         subtitle: 'Your products and services, at scale.'
-        content: >-
-          I will dive into the ins and outs of your product or service and make
-          sure the right information is communicated throughout your
-          documentation, pamphlets, manuals and technical documents.
+        content: >
+          > ***Tough times never last, only tough people do - Dr Robert
+          Schuller***
         actions:
           - label: See Past Work
             url: /faq
