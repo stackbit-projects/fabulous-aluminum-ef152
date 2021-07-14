@@ -21,7 +21,6 @@ sections:
     background_image_size: contain
     background_image_opacity: 8
   - type: features_section
-    title: My services
     subtitle: At Ease is a web-based and mobile aoo
     features:
       - title: Educate Yourself !
