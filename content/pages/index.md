@@ -42,7 +42,7 @@ sections:
       - title: Your Safe Room
         subtitle: >-
           Anonymously discuss various topics seek or/and give advice, pour out
-          your heart (get it all off your chest). We're a family
+          your heart (get it all off your chest).
         content: >
           > ***Anything is possible when you have the right people there to
           support you - Misty Copeland***
