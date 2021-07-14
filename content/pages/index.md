@@ -24,7 +24,9 @@ sections:
     subtitle: At Ease is a web-based and mobile app that
     features:
       - title: Educate Yourself !
-        subtitle: W
+        subtitle: >-
+          Educate yourself using diverse video and article courses as a
+          bystander, victim or survivor of domestic violence.
         content: >
           > ***Education is the most powerful weapon you can use to change the
           world - Nelson Mandela***
