@@ -73,6 +73,7 @@ sections:
         media_position: right
         media_width: fifty
         subtitle: Confidential Online Therapy sessions for everyone and anyone.
+        align: center
     feature_padding_vert: large
     align: center
     background_color: none
