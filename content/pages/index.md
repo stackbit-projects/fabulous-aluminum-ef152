@@ -32,7 +32,7 @@ sections:
         actions:
           - label: Explore Courses
             url: /faq
-            style: primary
+            style: secondary
             has_icon: true
             icon: arrow-right
             icon_position: right
