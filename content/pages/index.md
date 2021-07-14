@@ -79,7 +79,7 @@ sections:
         image: /images/section 3.jpg
         image_alt: Feature 3 illustration
         media_position: right
-        media_width: fourty
+        media_width: fifty
         subtitle: Confidential Online Therapy sessions for everyone and anyone.
         align: center
     feature_padding_vert: large
