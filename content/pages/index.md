@@ -44,7 +44,7 @@ sections:
         image: /images/section 1 again.png
         image_alt: Feature 1 illustration
         media_position: right
-        media_width: sixty
+        media_width: fourty
         align: center
       - title: Your Safe Room
         subtitle: >-
