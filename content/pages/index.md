@@ -3,7 +3,7 @@ title: Home
 sections:
   - type: hero_section
     title: Welcome to At Ease!!
-    subtitle: A seren haven fighting against domestic violence
+    subtitle: A serene haven fighting against domestic violence
     actions:
       - label: Find help URGENTLY
         url: /contact
