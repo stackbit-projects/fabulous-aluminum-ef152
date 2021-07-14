@@ -57,6 +57,7 @@ sections:
         image_alt: Feature 2 illustration
         media_position: right
         media_width: sixty
+        align: center
       - title: Therapy Sessions
         content: >
           > ***Tough times never last, only tough people do - Dr Robert
