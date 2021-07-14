@@ -21,7 +21,7 @@ sections:
     background_image_size: contain
     background_image_opacity: 8
   - type: features_section
-    subtitle: At Ease is a web-based and mobile aoo
+    subtitle: At Ease is a web-based and mobile app
     features:
       - title: Educate Yourself !
         subtitle: W
