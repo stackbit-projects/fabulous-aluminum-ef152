@@ -39,6 +39,7 @@ sections:
         image_alt: Feature 1 illustration
         media_position: right
         media_width: sixty
+        align: center
       - title: Your Safe Room
         subtitle: >-
           Anonymously discuss various topics, seek or/and give advice, pour out
