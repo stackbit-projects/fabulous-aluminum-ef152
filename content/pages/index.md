@@ -26,10 +26,9 @@ sections:
     features:
       - title: Educate Yourself !
         subtitle: W
-        content: >-
-          I will handle content writing for your digital assets, from
-          newsletters and emails, to Facebook and Google campaigns, whitepapers,
-          case studies and product descriptions. No job is too big or small!
+        content: >
+          > ***Education is the most powerful weapon you can use to change the
+          world - Nelson Mandela***
         actions:
           - label: See Writing Samples
             url: /faq
