@@ -45,7 +45,7 @@ sections:
           > ***Anything is possible when you have the right people there to
           support you - Misty Copeland***
         actions:
-          - label: Learn More
+          - label: Ready when you are
             url: /about
             style: primary
             has_icon: true
