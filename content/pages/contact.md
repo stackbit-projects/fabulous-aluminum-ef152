@@ -11,7 +11,7 @@ sections:
   - type: form_section
     content_align: left
     form_position: left
-    form_width: fifty
+    form_width: sixty
     form_layout: stacked
     enable_card: true
     form_id: contact-form
