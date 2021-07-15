@@ -3,9 +3,7 @@ title: Contact
 sections:
   - type: hero_section
     title: Contact Us
-    subtitle: >-
-      Kindly fill out the form below and I will definetly get in touch within 1
-      business day.
+    subtitle: Kindly fill out the form below and I will definetly get in touch with you
     align: center
     padding_top: medium
     padding_bottom: medium
