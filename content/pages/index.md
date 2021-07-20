@@ -3,7 +3,7 @@ title: Home
 sections:
   - type: hero_section
     title: Welcome to At Ease!!
-    subtitle: "A safe, serene haven fighting against domestic violence\_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_Here, we have made it our TOP priority is to make you feel AT EASE."
+    subtitle: "A safe, serene haven fighting against domestic violence\_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ Here, we have made it our TOP priority is to make you feel AT EASE."
     actions:
       - label: < Urgent help needed now ! >
         url: /contact
