@@ -2,7 +2,7 @@
 title: Home
 sections:
   - type: hero_section
-    title: Wait...
+    title: Welcome to At Ease!!
     subtitle: >-
       ...Don't exit yet, I won't promise you the journey Here, I have made it my
       TOP priority is to make you feel AT EASE.
