@@ -5,7 +5,7 @@ sections:
     title: Wait...
     subtitle: 'Here, our TOP priority is to make you feel AT EASE.'
     actions:
-      - label: Urgent help needed now !
+      - label: < Urgent help needed now ! >
         url: /contact
         style: primary
     image: /images/Adalee Naturals.png
