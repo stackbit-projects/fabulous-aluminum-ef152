@@ -3,7 +3,7 @@ title: Home
 sections:
   - type: hero_section
     title: Wait...
-    subtitle: "A serene haven fighting against\_ domestic violence.\_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ We help victims of domestic violence, support\_ survivors , train bystanders and teach them the various techniques perpetrators use.\_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ Here, our TOP priority is to make you feel AT EASE."
+    subtitle: 'Here, our TOP priority is to make you feel AT EASE.'
     actions:
       - label: Urgent help needed now !
         url: /contact
