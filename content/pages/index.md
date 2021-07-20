@@ -81,7 +81,7 @@ sections:
     feature_padding_vert: large
     align: center
     background_color: none
-    title: W
+    title: Welcome to A
 seo:
   title: Stackbit Personal Theme
   description: The preview of the Personal theme
