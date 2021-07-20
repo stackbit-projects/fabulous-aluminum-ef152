@@ -3,7 +3,9 @@ title: Home
 sections:
   - type: hero_section
     title: Wait...
-    subtitle: 'Here, our TOP priority is to make you feel AT EASE.'
+    subtitle: >-
+      ...Don't exit yet, I won't promise you the journey Here, we have made it
+      our TOP priority is to make you feel AT EASE.
     actions:
       - label: < Urgent help needed now ! >
         url: /contact
