@@ -22,7 +22,7 @@ sections:
     background_image: images/watercolor.png
     background_image_repeat: repeat
     background_image_size: contain
-    background_image_opacity: 8
+    background_image_opacity: 7
   - type: features_section
     subtitle: >-
       At Ease is a web-based and mobile app that assists survivors and victims
