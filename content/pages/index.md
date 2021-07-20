@@ -88,7 +88,7 @@ sections:
     feature_padding_vert: large
     align: center
     background_color: none
-    title: Welcome to At Ease
+    title: Our Features
 seo:
   title: Stackbit Personal Theme
   description: The preview of the Personal theme
