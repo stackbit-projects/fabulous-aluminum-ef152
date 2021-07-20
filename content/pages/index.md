@@ -3,9 +3,7 @@ title: Home
 sections:
   - type: hero_section
     title: Welcome to At Ease!!
-    subtitle: >-
-      ...Don't exit yet, I won't promise you the journey Here, I have made it my
-      TOP priority is to make you feel AT EASE.
+    subtitle: "A safe, serene haven fighting against domestic violence\_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ Here, I have made it my TOP priority is to make you feel AT EASE."
     actions:
       - label: < Urgent help needed now ! >
         url: /contact
