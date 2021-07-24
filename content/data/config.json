@@ -29,7 +29,7 @@
                 "type": "action"
             },
             {
-                "label": "VANISH ME",
+                "label": "VANISH ME ",
                 "url": "#",
                 "style": "secondary",
                 "has_icon": false,
