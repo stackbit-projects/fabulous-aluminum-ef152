@@ -89,7 +89,7 @@ sections:
     feature_padding_vert: large
     align: center
     background_color: none
-    title: Our Features
+    title: Our Services
 seo:
   title: Stackbit Personal Theme
   description: The preview of the Personal theme
