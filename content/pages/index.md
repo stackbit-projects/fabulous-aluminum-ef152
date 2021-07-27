@@ -88,7 +88,7 @@ sections:
         align: center
     feature_padding_vert: large
     align: center
-    background_color: primary
+    background_color: secondary
     title: Our Services
 seo:
   title: Stackbit Personal Theme
