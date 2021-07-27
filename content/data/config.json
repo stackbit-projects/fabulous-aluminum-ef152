@@ -62,7 +62,8 @@
                 "new_window": true
             }
         ],
-        "content": "&copy; Stackbit. All rights reserved."
+        "content": "&copy; Stackbit. All rights reserved.",
+        "primary_nav_title": "n"
     },
     "announcement": {
         "has_anncmnt": true,
