@@ -91,7 +91,7 @@ sections:
     background_color: none
     title: Our Services
 seo:
-  title: Stackbit Personal Theme
+  title: At Ease
   description: The preview of the Personal theme
   extra:
     - name: 'og:type'
