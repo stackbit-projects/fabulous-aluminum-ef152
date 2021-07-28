@@ -66,7 +66,7 @@ sections:
         image: /images/IMG_2200 - Copy.jpg
         image_alt: Feature 2 illustration
         media_position: right
-        media_width: sixty
+        media_width: fifty
         align: center
       - title: Therapy Sessions
         content: >
