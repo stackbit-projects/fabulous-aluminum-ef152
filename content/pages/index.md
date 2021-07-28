@@ -92,7 +92,6 @@ sections:
     title: Our Services
 seo:
   title: At Ease
-  description: The preview of the Personal theme
   extra:
     - name: 'og:type'
       value: website
