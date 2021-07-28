@@ -29,6 +29,7 @@ sections:
       of domestic violence. It consists of varied courses that give full
       understanding of domestic violence and how to respond to it, free therapy
       sessions and a safe space to anonymously get things off your chest.
+      
     features:
       - title: Educate Yourself !
         subtitle: >-
