@@ -44,7 +44,7 @@ sections:
             has_icon: true
             icon: arrow-right
             icon_position: right
-        image: /images/educate 2.jfif
+        image: '/images/st,small,507x507-pad,600x600,f8f8f8.jpg'
         image_alt: Feature 1 illustration
         media_position: right
         media_width: sixty
